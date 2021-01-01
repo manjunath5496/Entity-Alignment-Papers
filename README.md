@@ -34,7 +34,7 @@ Joint Attribute-Preserving Embedding</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/Entity-Alignment-Papers/blob/master/ek(17).pdf" style="text-decoration:none;">Weakly-supervised Knowledge Graph Alignment with Adversarial Learning</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Entity-Alignment-Papers/blob/master/ek(18).pdf" style="text-decoration:none;">Relation-Aware Entity Alignment for Heterogeneous Knowledge Graphs</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Entity-Alignment-Papers/blob/master/ek(18).pdf" style="text-decoration:none;">Entity Alignment Across Knowledge Graphs Based on Representative Relations Selection</a></li> 
 
   
 <li><a target="_blank" href="https://github.com/manjunath5496/Entity-Alignment-Papers/blob/master/ek(19).pdf" style="text-decoration:none;">Multi-Channel Graph Neural Network for Entity Alignment</a></li> 
@@ -79,14 +79,17 @@ Convolution Network </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Entity-Alignment-Papers/blob/master/ek(41).pdf" style="text-decoration:none;">Modeling Multi-mapping Relations for Precise Cross-lingual Entity Alignment</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Entity-Alignment-Papers/blob/master/ek(42).pdf" style="text-decoration:none;">Semi-supervised Entity Alignment via Joint Knowledge Embedding Model and Cross-graph Model</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Entity-Alignment-Papers/blob/master/ek(43).pdf" style="text-decoration:none;">Deep Graph Matching Consensus</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Entity-Alignment-Papers/blob/master/ek(43).pdf" style="text-decoration:none;">MMEA: Entity Alignment
+for Multi-modal Knowledge Graph</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/Entity-Alignment-Papers/blob/master/ek(44).pdf" style="text-decoration:none;">LinkNBed: Multi-Graph Representation Learning with Entity Linkage</a></li>
    <li><a target="_blank" href="https://github.com/manjunath5496/Entity-Alignment-Papers/blob/master/ek(45).pdf" style="text-decoration:none;">Collective Multi-type Entity Alignment Between Knowledge Graphs</a></li>  
    
 <li><a target="_blank" href="https://github.com/manjunath5496/Entity-Alignment-Papers/blob/master/ek(46).pdf" style="text-decoration:none;">COTSAE: CO-Training of Structure and Attribute Embeddings for Entity Alignment</a></li> 
                              
 <li><a target="_blank" href="https://github.com/manjunath5496/Entity-Alignment-Papers/blob/master/ek(47).pdf" style="text-decoration:none;">Aligning Cross-Lingual Entities with Multi-Aspect Information</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Entity-Alignment-Papers/blob/master/ek(48).pdf" style="text-decoration:none;">COTSAE: CO-Training of Structure and
-Attribute Embeddings for Entity Alignment</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entity-Alignment-Papers/blob/master/ek(48).pdf" style="text-decoration:none;">Semi-Supervised Entity Alignment via Knowledge Graph Embedding with Awareness of Degree Difference</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Entity-Alignment-Papers/blob/master/ek(49).pdf" style="text-decoration:none;">Self-learning and Embedding Based
+Entity Alignment</a></li>
+
 
 </ul>
